@@ -17,11 +17,8 @@ flowchart TD
     C -->|Two| E[iPhone]
     C -->|Three| F[fa:fa-car Car]
     style A fill:red,stroke:white
-    style B fill:green,stroke:black,stroke-width:4px,shadow:shadow
-    style C fill:blue,stroke:black,stroke-width:4px,shadow:shadow
-    style D fill:yellow,stroke:black,stroke-width:2px,shadow:shadow
-    style E fill:brown,stroke:black,stroke-width:2px,shadow:shadow
-    style F fill:navy,stroke:black,stroke-width:2px,shadow:shadow
-   
+    style B fill:green,stroke:white
+    style C,D,E,F fill:green,stroke:white
+    
     
 ```
