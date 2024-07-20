@@ -2,7 +2,7 @@
 
 ``` mermaid
 flowchart TD;
-    A-Hlo->B;
+    A-- Hlo -->B;
     A-->C;
     B-->D;
     C-->D;
