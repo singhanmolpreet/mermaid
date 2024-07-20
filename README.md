@@ -14,8 +14,8 @@ flowchart TD
     A(Christmas)-- Get money -->B(Go shopping)
     B --> C{Let me think}
     C --One --> D[Laptop] 
-    C --Two-->E[iPhone]
-    C --Three--> F[Car]
+    C --Two -->E[iPhone]
+    C --Three --> F[Car]
     style A fill:red,stroke:white
     style B fill:green,stroke:white
     style C fill:green,stroke:white
