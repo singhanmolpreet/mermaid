@@ -28,6 +28,6 @@ pie
     title Pie Chart
     "Words" : 7
     "Voice Tone" : 38
-    "Body Languae" : 55
-%%{init: {'theme': 'base', 'themeVariables': { "Words": '#FFFFFF', 'pie2': '#FFFF00', 'pie3': '#00FF00'}}}%%
+    "Body Language" : 55
+%%{init: {'theme': 'base', 'themeVariables': { "Words": '#FFFFFF', "Body Language": '#FFFF00', "Voice Tone": '#00FF00'}}}%%
 ```
