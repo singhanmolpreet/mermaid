@@ -10,7 +10,7 @@ flowchart TD;
 ```
 ```mermaid
 flowchart TD
-    A(Christmas)-- |Get money| -->B(Go shopping)
+    A(Christmas)-- (Get money) -->B(Go shopping)
     style A fill:red,stroke:black,stroke-width:4px,shadow:shadow
     B --> C{Let me think}
     style B fill:green,stroke:black,stroke-width:4px,shadow:shadow
