@@ -30,3 +30,15 @@ pie
     "Body Language" : 55
 %%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#FFFF00', 'pie3': '#00FF00'}}}%%
 ```
+
+``` mermaid
+mindmap
+        A
+            B
+            C
+            D
+            E
+                X
+```
+
+        
