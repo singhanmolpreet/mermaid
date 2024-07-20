@@ -1,7 +1,7 @@
 # Mermaid
 
 ``` mermaid
-flowchart RL
+flowchart LR
     A-- Hlo -->B
     A-->C
     B-->D
