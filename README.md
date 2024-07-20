@@ -29,5 +29,5 @@ pie
     "Words" : 7
     "Voice Tone" : 38
     "Body Language" : 55
-%%{init: {'theme': 'base', 'themeVariables': { "Words": '#FFFFFF', "Body Language": '#FFFF00', "Voice Tone": '#00FF00'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#FFFF00', 'pie3': '#00FF00'}}}%%
 ```
