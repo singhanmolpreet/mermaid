@@ -18,7 +18,7 @@ flowchart TD
     C -->|Three| F[fa:fa-car Car]
     style A fill:red,stroke:white
     style B fill:green,stroke:white
-    style C & D fill:green,stroke:white
+    style C fill:green,stroke:white
     
     
 ```
