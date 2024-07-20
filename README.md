@@ -19,6 +19,13 @@ flowchart TD
     style A fill:red,stroke:white
     style B fill:green,stroke:white
     style C fill:green,stroke:white
-    
-    
+```
+
+``` mermaid
+pie 
+    showData
+    title Pie Chart
+    "Words" : 7
+    "Voice Tone" : 38
+    "Body Languae" : 55
 ```
