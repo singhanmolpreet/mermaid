@@ -22,6 +22,7 @@ flowchart TD
 ```
 
 ``` mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#FFFF00', 'pie3': '#00FF00'}}}%%
 pie 
     showData
     title Pie Chart
