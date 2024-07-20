@@ -22,11 +22,12 @@ flowchart TD
 ```
 
 ``` mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#FFFF00', 'pie3': '#00FF00'}}}%%
+
 pie 
     showData
     title Pie Chart
     "Words" : 7
     "Voice Tone" : 38
     "Body Languae" : 55
+%%{init: {'theme': 'base', 'themeVariables': { "Words": '#FFFFFF', 'pie2': '#FFFF00', 'pie3': '#00FF00'}}}%%
 ```
