@@ -8,7 +8,7 @@ flowchart TD;
     C-->D;
     D-->E; 
 ```
-
+```mermaid
 flowchart TD
     A(Christmas)-- |Get money| -->B(Go shopping)
     style A fill:red,stroke:black,stroke-width:4px,shadow:shadow
@@ -21,3 +21,4 @@ flowchart TD
     style D fill:yellow,stroke:black,stroke-width:2px,shadow:shadow
     style E fill:brown,stroke:black,stroke-width:2px,shadow:shadow
     style F fill:navy,stroke:black,stroke-width:2px,shadow:shadow
+```
