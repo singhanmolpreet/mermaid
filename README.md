@@ -56,6 +56,7 @@ mindmap
             Creative techniques
             Strategic planning
             Argument mapping
+            ::icon(fa fa-book)
     Tools
       Pen and paper
       Mermaid
