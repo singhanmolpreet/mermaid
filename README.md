@@ -55,8 +55,7 @@ mindmap
         Uses
             Creative techniques
             Strategic planning
-            Argument mapping
-            ::icon(fa fa-book)
+            Argument mapping 👤
     Tools
       Pen and paper
       Mermaid
