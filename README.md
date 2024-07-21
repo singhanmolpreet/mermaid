@@ -34,7 +34,7 @@ pie
 ``` mermaid
 mindmap
         A
-            id)H(
+            H
             ::icon(fa fa-book)
             C
             D
