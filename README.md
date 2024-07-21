@@ -58,7 +58,7 @@ mindmap
             Argument mapping 👤
     Tools
       Pen and paper
-      Mermaid
+      Mermaid😎
 ```
 
 
