@@ -11,7 +11,7 @@ flowchart LR
 
 ```mermaid
 ---
-title Flowchart
+title: Flowchart
 ---
 flowchart TD
     Christmas -- Get money -->B(Go shopping)
