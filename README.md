@@ -27,9 +27,9 @@ flowchart TD
 ``` mermaid
 pie 
     title Pie Chart
-    "Words" : 7
-    "Voice Tone" : 38
-    "Body Language" : 55
+    Words : 7
+    Voice Tone : 38
+    Body Language : 55
 %%{init: { 'themeVariables': { 'pie1': 'red', 'pie2': 'yellow', 'pie3': 'blue'}}}%%
 ```
 
@@ -43,6 +43,7 @@ mindmap
             E
                 X
 ```
+
 ``` mermaid
 mindmap
   root((mindmap))
