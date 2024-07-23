@@ -31,7 +31,7 @@ pie
     "Words" : 7
     "Voice Tone" : 38
     "Body Language" : 55
-%%{init: { 'themeVariables': { 'pie1': '#FFFFFF', 'pie2': '#FFFF00', 'pie3': '#00FF00'}}}%%
+%%{init: { 'themeVariables': { 'pie1': 'red, 'pie2': yellow, 'pie3': blue}}}%%
 ```
 
 ``` mermaid
