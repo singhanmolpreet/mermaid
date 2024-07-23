@@ -11,6 +11,7 @@ flowchart LR
 
 ```mermaid
 flowchart TD
+    title "Flowchart"
     A(Christmas)-- Get money -->B(Go shopping)
     B --> C{Let me think}
     C --One --> D[Laptop] 
