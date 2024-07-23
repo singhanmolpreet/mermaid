@@ -75,7 +75,7 @@ timeline
 ```
 
 ```mermaid
-xychart
+xychart-beta
     title XY Chart
     x-axis [jan,feb,march,april]
     y-axis "Revenue" 4000 --> 10000
