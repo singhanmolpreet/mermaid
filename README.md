@@ -73,3 +73,11 @@ timeline
     2005 : Youtube
     2006 : Twitter
 ```
+
+```mermaid
+xychart
+    title XY Chart
+    x-axis [jan,feb,march,april]
+    y-axis "Revenue" 4000 --> 10000
+    bar [5000, 6000, 7500, 10000]
+```
