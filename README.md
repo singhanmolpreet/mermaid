@@ -37,7 +37,6 @@ pie
 mindmap
         A
             H
-            ::icon(fa fa-book)
             C
             D
             E
