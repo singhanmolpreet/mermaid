@@ -10,7 +10,9 @@ flowchart LR
 ```
 
 ```mermaid
+---
 title: Flowchart
+---
 flowchart TD
     A(Christmas)-- Get money -->B(Go shopping)
     B --> C{Let me think}
