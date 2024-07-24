@@ -1,4 +1,8 @@
-#Mermaid
+# Mermaid
+
+## Flow Chart Left to Right
+
+Sample Code: 
 
 ``` mermaid
 flowchart LR
