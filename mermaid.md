@@ -17,6 +17,9 @@ Output:
 
 ![](mermaid1.png)
 
+## Flow Chart Top to Bottom
+
+Sample Code: 
 
 ```mermaid
 ---
@@ -33,6 +36,14 @@ flowchart TD
     style C fill:green,stroke:white
 ```
 
+Output:
+
+![](mermaid2.png)
+
+## Pie Chart
+
+Sample Code: 
+
 ``` mermaid
 pie 
     title Pie Chart
@@ -41,6 +52,14 @@ pie
     "Body Language" : 55
 %%{init: { 'themeVariables': { 'pie1': 'red', 'pie2': 'yellow', 'pie3': 'blue'}}}%%   
 ```
+
+Output:
+
+![](mermaid3.png)
+
+## Mindmap
+
+Sample Code: 
 
 ``` mermaid
 mindmap
@@ -52,6 +71,14 @@ mindmap
                 X
                 Y
 ```
+
+Output:
+
+![](mermaid4.png)
+
+## Mindmap
+
+Sample Code: 
 
 ``` mermaid
 mindmap
@@ -72,6 +99,14 @@ mindmap
       Mermaid
 ```
 
+Output:
+
+![](mermaid5.png)
+
+## Timeline
+
+Sample Code: 
+
 ```mermaid
 timeline
     title History of Social Media Platform
@@ -82,6 +117,14 @@ timeline
     2006 : Twitter
 ```
 
+Output:
+
+![](mermaid6.png)
+
+## XY Chart 
+
+Sample Code: 
+
 ```mermaid
 xychart-beta
     title "Revenue Chart"
@@ -90,4 +133,8 @@ xychart-beta
     bar [5000, 6000, 7500, 10000]
     line [5000, 6000, 7500, 10000]
 ```
+
+Output:
+
+![](mermaid7.png)
 
