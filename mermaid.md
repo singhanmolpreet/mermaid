@@ -139,5 +139,5 @@ xychart-beta
 
 ![](mermaid7.png)
 
-Note: These codes are for github. In live editor, don't use ```` ```mermaid ``` ````. Just type the code directly.
+**Note: The given syntax is for Github only. In live editor, don't use ```` ```mermaid ``` ````. Just type the code directly.**
 
