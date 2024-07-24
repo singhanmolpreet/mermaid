@@ -19,6 +19,7 @@ flowchart TD
     C -- One --> D[Laptop] 
     C -- Two -->E[iPhone]
     C -- Three --> F[Car]
+#To add colors to the flowchart
     style Christmas fill:red,stroke:white
     style B fill:green,stroke:white
     style C fill:green,stroke:white
@@ -30,7 +31,7 @@ pie
     "Words" : 7
     "Voice Tone" : 38
     "Body Language" : 55
-%%{init: { 'themeVariables': { 'pie1': 'red', 'pie2': 'yellow', 'pie3': 'blue'}}}%%
+%%{init: { 'themeVariables': { 'pie1': 'red', 'pie2': 'yellow', 'pie3': 'blue'}}}%%   #To Add Colors to the Graph
 ```
 
 ``` mermaid
