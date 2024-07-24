@@ -4,7 +4,7 @@
 
 * [Mermaid Live Editor](https://mermaid.live/)
 
-* [Diagram with their codes]
+* [Diagram with their codes](mermaid.md)
 
 
 
