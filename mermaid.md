@@ -19,7 +19,6 @@ flowchart TD
     C -- One --> D[Laptop] 
     C -- Two -->E[iPhone]
     C -- Three --> F[Car]
-#To add colors to the flowchart
     style Christmas fill:red,stroke:white
     style B fill:green,stroke:white
     style C fill:green,stroke:white
@@ -31,17 +30,18 @@ pie
     "Words" : 7
     "Voice Tone" : 38
     "Body Language" : 55
-%%{init: { 'themeVariables': { 'pie1': 'red', 'pie2': 'yellow', 'pie3': 'blue'}}}%%   #To Add Colors to the Graph
+%%{init: { 'themeVariables': { 'pie1': 'red', 'pie2': 'yellow', 'pie3': 'blue'}}}%%   
 ```
 
 ``` mermaid
 mindmap
         A
-            H
-            C
+            B
+                C
             D
             E
                 X
+                Y
 ```
 
 ``` mermaid
@@ -49,7 +49,6 @@ mindmap
   root((mindmap))
     Origins
       Long history
-      ::icon(fa fa-book)
       Popularisation
         British popular psychology author Tony Buzan
     Research
@@ -58,10 +57,10 @@ mindmap
         Uses
             Creative techniques
             Strategic planning
-            Argument mapping 👤
+            Argument mapping
     Tools
       Pen and paper
-      Mermaid😎
+      Mermaid
 ```
 
 ```mermaid
