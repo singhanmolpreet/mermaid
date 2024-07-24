@@ -3,7 +3,7 @@
 ## Flow Chart Left to Right
 
 **Sample Code**
-
+````
 ``` mermaid
 flowchart LR
     A-- Hlo -->B
@@ -12,6 +12,7 @@ flowchart LR
     C-->D
     D-->E 
 ```
+````
 
 **Output**
 
