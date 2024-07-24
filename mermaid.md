@@ -22,6 +22,7 @@ flowchart LR
 
 **Sample Code**
 
+````
 ```mermaid
 ---
 title: Flowchart
@@ -36,6 +37,7 @@ flowchart TD
     style B fill:green,stroke:white
     style C fill:green,stroke:white
 ```
+````
 
 **Output**
 
@@ -45,6 +47,7 @@ flowchart TD
 
 **Sample Code**
 
+````
 ``` mermaid
 pie 
     title Pie Chart
@@ -53,6 +56,7 @@ pie
     "Body Language" : 55
 %%{init: { 'themeVariables': { 'pie1': 'red', 'pie2': 'yellow', 'pie3': 'blue'}}}%%   
 ```
+````
 
 **Output**
 
@@ -62,6 +66,7 @@ pie
 
 **Sample Code**
 
+````
 ``` mermaid
 mindmap
         A
@@ -72,6 +77,7 @@ mindmap
                 X
                 Y
 ```
+````
 
 **Output**
 
@@ -81,6 +87,7 @@ mindmap
 
 **Sample Code**
 
+````
 ``` mermaid
 mindmap
   root((mindmap))
@@ -99,6 +106,7 @@ mindmap
       Pen and paper
       Mermaid
 ```
+````
 
 **Output**
 
@@ -108,6 +116,7 @@ mindmap
 
 **Sample Code**
 
+````
 ```mermaid
 timeline
     title History of Social Media Platform
@@ -117,6 +126,7 @@ timeline
     2005 : Youtube
     2006 : Twitter
 ```
+````
 
 **Output**
 
@@ -126,14 +136,16 @@ timeline
 
 **Sample Code**
 
-/```mermaid
+````
+```mermaid
 xychart-beta
     title "Revenue Chart"
     x-axis [January,February,March,April]
     y-axis "Revenue" 4000 --> 10000
     bar [5000, 6000, 7500, 10000]
     line [5000, 6000, 7500, 10000]
-/```
+```
+````
 
 **Output**
 
