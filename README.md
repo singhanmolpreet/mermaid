@@ -1,4 +1,5 @@
 # Workshop 6: Mermaid
 
 * [Official Documentation](https://mermaid.js.org/intro/)
-Mermaid Live Editor
+
+* [Mermaid Live Editor](https://mermaid.live/)
