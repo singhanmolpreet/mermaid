@@ -75,8 +75,8 @@ timeline
 
 ```mermaid
 xychart-beta
-    title XY Chart
-    x-axis [jan,feb,march,april]
+    title "Revenue Chart"
+    x-axis [January,February,March,April]
     y-axis "Revenue" 4000 --> 10000
     bar [5000, 6000, 7500, 10000]
     line [5000, 6000, 7500, 10000]
