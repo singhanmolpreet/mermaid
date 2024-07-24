@@ -2,7 +2,7 @@
 
 ## Flow Chart Left to Right
 
-Sample Code
+**Sample Code**
 
 ``` mermaid
 flowchart LR
@@ -13,7 +13,7 @@ flowchart LR
     D-->E 
 ```
 
-Output
+**Output**
 
 ![](mermaid1.png)
 
@@ -42,7 +42,7 @@ flowchart TD
 
 ## Pie Chart
 
-Sample Code
+**Sample Code**
 
 ``` mermaid
 pie 
@@ -53,13 +53,13 @@ pie
 %%{init: { 'themeVariables': { 'pie1': 'red', 'pie2': 'yellow', 'pie3': 'blue'}}}%%   
 ```
 
-Output
+**Output**
 
 ![](mermaid3.png)
 
 ## Mindmap
 
-Sample Code
+**Sample Code**
 
 ``` mermaid
 mindmap
@@ -72,13 +72,13 @@ mindmap
                 Y
 ```
 
-Output
+**Output**
 
 ![](mermaid4.png)
 
 ## Mindmap
 
-Sample Code
+**Sample Code**
 
 ``` mermaid
 mindmap
@@ -99,13 +99,13 @@ mindmap
       Mermaid
 ```
 
-Output
+**Output**
 
 ![](mermaid5.png)
 
 ## Timeline
 
-Sample Code
+**Sample Code**
 
 ```mermaid
 timeline
@@ -117,24 +117,24 @@ timeline
     2006 : Twitter
 ```
 
-Output
+**Output**
 
 ![](mermaid6.png)
 
 ## XY Chart 
 
-Sample Code
+**Sample Code**
 
-```mermaid
+/```mermaid
 xychart-beta
     title "Revenue Chart"
     x-axis [January,February,March,April]
     y-axis "Revenue" 4000 --> 10000
     bar [5000, 6000, 7500, 10000]
     line [5000, 6000, 7500, 10000]
-```
+/```
 
-Output
+**Output**
 
 ![](mermaid7.png)
 
