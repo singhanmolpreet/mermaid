@@ -13,7 +13,7 @@ flowchart LR
     D-->E 
 ```
 
-![](mermaid1.png)
+![Output](mermaid1.png)
 
 
 ```mermaid
