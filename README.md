@@ -4,6 +4,8 @@
 
 * [Mermaid Live Editor](https://mermaid.live/)
 
+* [Shapes with their codes](shapes.md)
+
 * [Diagram with their codes](mermaid.md)
 
 
