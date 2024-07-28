@@ -27,7 +27,7 @@ flowchart LR
 ---
 title: Flowchart
 ---
-flowchart TD
+flowchart TB
     Christmas -- Get money -->B(Go shopping)
     B --> C{Let me think}
     C -- One --> D[Laptop] 
