@@ -9,7 +9,7 @@ id1[This is the text in the box]
 
 **Output**
 
-![]
+![](Shape1.png)
 
 ## Node with Rounded Edges
 
@@ -20,6 +20,8 @@ id1(This is the text in the box)
 ```
 
 **Output**
+
+![](Shape2.png)
 
 
 ## Node in form of Circle
@@ -32,6 +34,7 @@ id1((This is the text in the circle))
 
 **Output**
 
+![](Shape3.png)
 
 **Note: To include Markdown Text in a Node, enclose the text in Double Quotes (") and backticks**
 
@@ -42,3 +45,5 @@ id1["`This is the **Markdown Text** in the box`"]
 ```
 
 **Output**
+
+![](Shape4.png)
