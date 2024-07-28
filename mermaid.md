@@ -121,7 +121,7 @@ mindmap
 timeline
     title History of Social Media Platform
     2002 : LinkedIn
-    12 feb 2004 : Facebook
+    2004 : Facebook
          : Google
     2005 : Youtube
     2006 : Twitter
